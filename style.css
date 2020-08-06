@@ -1,0 +1,33 @@
+
+input {
+	height: 20px;
+    background-color: #914e13;
+    margin-bottom: 20px;
+    margin: 0px;
+	padding-top: 16px;
+	font-size: 22px;
+	text-align: center;
+}
+
+
+
+body {
+	background-color: #245;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-size: auto;
+  text-align: center;
+}
+button {
+	font-family: 'Montserrat', sans-serif;
+	line-height: 2em;
+    margin-bottom: 0;
+    background-color: #914e13;
+    color : black;
+   }
+ 
+
+
+	
+
+  
